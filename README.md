@@ -12,7 +12,7 @@ This document includes a tutorial on how to install a MaST Windows 10 release.
 1. Follow the installation instruction.
 1. Once installed, run *Mast.App* from the *Start Menu*.
 
-> #### If this is the first time you try to install the application, you might encounter error 0x800B0109 similar to the picture below. See Troubleshooting error 0x800B0109 for the solution. 
+> #### If this is the first time you try to install the application, you might encounter error 0x800B0109 similar to the picture below. See [Troubleshooting Error 0x800B0109](#1-error-0x800b0109) for the solution. 
 > ![Error 0x800B0109](http://i.imgur.com/RxNZd51.png)
 
 ## Troubleshooting
