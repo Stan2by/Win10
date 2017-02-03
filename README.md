@@ -18,7 +18,7 @@ This document includes a tutorial on how to install a MaST Windows 10 release.
 ## Troubleshooting
 
 ### 1. Error 0x800B0109
-This error is triggered by self signed certificates. Self signed certificates are not auto installed. You have to manually install the certificates.
+This error is triggered by self signed certificates. Self signed certificates are not auto installed. You have to manually install the certificates. **Self signed certificates are only used on development release as a temporary solution for testing the app. The final product will use certificates signed by Microsoft on Windows Store.** This step is not needed in the final product as the final product are installed through secured Windows Store.
 
 #### Manually installing certificates.
 
